@@ -1,0 +1,7 @@
+class AngularAppController
+{
+    def index()
+    {
+
+    }
+}
